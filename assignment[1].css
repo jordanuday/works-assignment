@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: rgb(240, 105, 105);
+    background-size: cover;
+    color: rgba(10, 10, 46, 0.781);
+    padding-top: 30px;
+}
+
+.name-container {
+    border-bottom: 4px solid rgba(10, 10, 46, 0.781);
+    padding-top: 20px;
+}
+
+.para-1 {
+    font-size: 18px;
+
+}
+
+.address-container {
+    border-bottom: 4px solid rgba(10, 10, 46, 0.781);
+    border-left: 4px solid rgba(10, 10, 46, 0.781);
+}
+
+.section-2 {
+    margin-top: 20px;
+}
+
+.list {
+    display: flex;
+}
+
+.years-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.works-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.year {
+    list-style-type: none;
+    margin-bottom: 55px;
+    font-size: medium;
+    font-weight: 600;
+    margin-right: 140px;
+}
+
+.years-container {
+    border-bottom: 4px solid rgba(10, 10, 46, 0.781);
+}
+
+.work {
+    list-style-type: none;
+}
+
+.skills-section {
+    list-style: none;
+    display: inline-block;
+}
+
+.skills-container {
+    margin-top: 20px;
+    border-bottom: 4px solid rgba(10, 10, 46, 0.781);
+}
+
+.skills {
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+
+.skills-points {
+    margin-bottom: 20px;
+}
+
+.fa-circle {
+    margin-right: 8px;
+}
+
+.awards-container {
+    margin-top: 20px;
+    border-bottom: 4px solid rgba(10, 10, 46, 0.781);
+    border-left: 4px solid rgba(10, 10, 46, 0.781);
+}
+
+.awards {
+    display: inline-block;
+    list-style: none;
+}
+
+.interests {
+    list-style: none;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+
+.interests-container {
+    border-bottom: 4px solid rgba(10, 10, 46, 0.781);
+}
+
+.interests-images {
+    background-color: rgba(10, 10, 46, 0.781);
+    width: 150px;
+    height: 140px;
+    text-align: center;
+    border-radius: 90px;
+    padding-top: 30px;
+}
+
+.interests-para {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px
+}
+
+.education-container {
+    border-bottom: 4px solid rgba(10, 10, 46, 0.781);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.education-section {
+    display: inline-block;
+    list-style: none;
+}
+
+.contents-container {
+    text-align: center;
+}
+
+.content-image {
+    padding: 20px;
+    border: 4px solid rgba(10, 10, 46, 0.781);
+    border-radius: 80px;
+}
